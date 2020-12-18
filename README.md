@@ -1,9 +1,9 @@
 __________________________________________
 
 # SQL (Structured Query Language)
-I will load practices executed by me related to the course "SQL for Data Science" from EDX
+I will load practices executed by me related to the course "SQL for Data Science" from EDX. 
 It is available at https://www.edx.org/course/sql-for-data-science
-This course is part of a Professional Certificate. It is a free course and it is possible to get certificate after doing some tests and paying R$ 199.
+This course is part of a Professional Certificate. It is a free course. But it is possible to get certificate if you decide paying US$39/R$ 199.
 
 The purpose of this course is to introduce relational database concepts and help you learn and apply foundational knowledge of the SQL language. It is also intended to get you started with performing SQL access in a data science environment using Jupyter notebooks.
 
