@@ -9,7 +9,7 @@ The purpose of this course is to introduce relational database concepts and help
 
 ![SQL](https://github.com/RosanaFSS/SQL/blob/main/Data%202.gif)
 
-Belo I share my summary
+Below I share my summary
 ### Module 1 - Introduction to Databases
 Introduction to databases and relational concepts. Creation of a database instance on the cloud. 
 - A database is a repository of data.
