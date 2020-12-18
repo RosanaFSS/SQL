@@ -37,7 +37,7 @@ _Introduction to databases and relational concepts. Creation of a database insta
 - Hands-on Lab | _I created my IBM Cloud account and a provision for a Database instance on cloud with  DB2 Lite Plan._
 ![SQL](https://github.com/RosanaFSS/SQL/blob/main/Module%201%20%2C%20hands-on%20lab%20-%20provision%20a%20cloud%20hosted%20database%20instance.jpg)
 
-
+__________________________________________
 ### Module 2 - Basic SQL
 18 Dec 2020
 Day09 #60daysofUdacity
@@ -55,13 +55,16 @@ Basic SQL statements. Write and practiced basic SQL hands-on in a live database.
   - Hands-on lab | _ I created a table named PRACTICE1 with Column1 as the Primary Key. Column1 has the NOT NULL constraint added after the datatype, meaning that it cannot contain a NULL or an empty value_.
  ![SQL]( https://github.com/RosanaFSS/SQL/blob/main/Module%202%20-%20hands-on%20lab%20-%20CREATE%20table.jpg)
 
-
+__________________________________________
 ### Module 3 - String Patterns, Ranges, Sorting, and Grouping
 
+__________________________________________
 ### Module 4 - Functions, Sub-Queries, Multiple Tables
 
+__________________________________________
 ### Module 5 - Accessing Databases using Python
 
+__________________________________________
 ### Module 6 - Course Assignment
 
 __________________________________________
