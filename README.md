@@ -44,6 +44,14 @@ Day09 #60daysofUdacity
 
 Basic SQL statements. Write and practiced basic SQL hands-on in a live database.
 
+- SQL Statements are used for interacting with Entities (that is tables), Attributes (that is columns) and their Tuples (or rows with data values) in relational databases.
+- SQL statements fall into two different categories
+  - DDL, Data Definition Language statements 
+    DDL statements are used to define, change, or drop database objects such as tables.
+    Common DDL statement types include: CREATE, ALTER, TRUNCATE and DROP.
+  - DML, Data Manipulation Language statement
+    DML are used for manipulating or working with data in tables.
+
 
 ### Module 3 - String Patterns, Ranges, Sorting, and Grouping
 
