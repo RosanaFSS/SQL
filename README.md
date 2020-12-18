@@ -57,6 +57,7 @@ Basic SQL statements. Write and practiced basic SQL hands-on in a live database.
  
 - Hands-on lab | _ I practiced the five basic SQL statements to CREATE tables, INSERT data, SELECT results, UPDATE and DELETE data. 
 ![SQL]( https://github.com/RosanaFSS/SQL/blob/main/Module%202%20-%20hands-on%20lab%20-%20five%20basic%20SQL%20statements.jpg)
+![SQL]( https://github.com/RosanaFSS/SQL/blob/main/Module%202%2C%20hands-on%20lab%2C%20five%20basic%20queries.txt)
 
 __________________________________________
 ### Module 3 - String Patterns, Ranges, Sorting, and Grouping
