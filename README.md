@@ -39,6 +39,11 @@ _Introduction to databases and relational concepts. Creation of a database insta
 
 
 ### Module 2 - Basic SQL
+18 Dec 2020
+Day09 #60daysofUdacity
+
+Basic SQL statements. Write and practiced basic SQL hands-on in a live database.
+
 
 ### Module 3 - String Patterns, Ranges, Sorting, and Grouping
 
