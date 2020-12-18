@@ -51,6 +51,9 @@ Basic SQL statements. Write and practiced basic SQL hands-on in a live database.
     Common DDL statement types include: CREATE, ALTER, TRUNCATE and DROP.
   - DML, Data Manipulation Language statement
     DML are used for manipulating or working with data in tables.
+    
+  - Hands-on lab | _ I created a table named PRACTICE1 with Column1 as the Primary Key. Column1 has the NOT NULL constraint added after the datatype, meaning that it cannot contain a NULL or an empty value_.
+  
 
 
 ### Module 3 - String Patterns, Ranges, Sorting, and Grouping
