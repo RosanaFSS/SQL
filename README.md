@@ -13,7 +13,7 @@ Below I share my summary
 
 ### Module 1 - Introduction to Databases
 18 Dec 2020 \
-Day09  **#60daysofUdacity**\
+Day09  **#60daysofUdacity**
 
 _Introduction to databases and relational concepts. Creation of a database instance on the cloud._
 
