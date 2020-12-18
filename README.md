@@ -54,6 +54,9 @@ Basic SQL statements. Write and practiced basic SQL hands-on in a live database.
     
   - Hands-on lab | _ I created a table named PRACTICE1 with Column1 as the Primary Key. Column1 has the NOT NULL constraint added after the datatype, meaning that it cannot contain a NULL or an empty value_.
  ![SQL]( https://github.com/RosanaFSS/SQL/blob/main/Module%202%20-%20hands-on%20lab%20-%20CREATE%20table.jpg)
+ 
+- Hands-on lab | _ I practiced the five basic SQL statements to CREATE tables, INSERT data, SELECT results, UPDATE and DELETE data. 
+![SQL]( https://github.com/RosanaFSS/SQL/blob/main/Module%202%20-%20hands-on%20lab%20-%20CREATE%20table.jpg)
 
 __________________________________________
 ### Module 3 - String Patterns, Ranges, Sorting, and Grouping
