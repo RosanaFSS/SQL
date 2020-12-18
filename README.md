@@ -12,6 +12,8 @@ Introduction to databases and relational concepts. Creation of a database instan
 - A database is a repository of data.
 - A set of software tools for the data in the database is called DBMS (Database Management System).
 - RBMS is a set of software tools that controls the data.
+- There are 5 basic SQL commands: Create, Insert, Select, Update, Delete
+- I created an IBM Db2 database instance on cloud
 
 # Module 2 - Basic SQL
 
