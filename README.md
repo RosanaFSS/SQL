@@ -33,7 +33,7 @@ Introduction to databases and relational concepts. Creation of a database instan
 - A table is a combination of rows and columns.
 - Common data types include characters such as Char and Varchar, numbers such as integer.
 
-- I created an IBM Db2 database instance on cloud.
+- Hands-on Lab | I created an IBM Cloud account and provision for a Database instance on cloud with  DB2 Lite Plan.
 
 
 ### Module 2 - Basic SQL
