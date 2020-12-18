@@ -22,7 +22,7 @@ _Introduction to databases and relational concepts. Creation of a database insta
 - RBMS is a set of software tools that controls the data.
 - I learned some advantages :+1: of using cloud databases
 :heavy_minus_sign: cloud databases can expand an shrink their storage and compute capacities during runtime to accomodate changing needs and usage demands;
-:heavy_minus_sign: scalability | ease of use, users can access from cirtually anywhere;
+:heavy_minus_sign: scalability | ease of use, users can access from virtually anywhere; :100:
 :heavy_minus_sign: disaster recovery | data is kept secure through backups on remote servers in case of failure or power outage.
 
 - There are 5 basic SQL commands: Create, Insert, Select, Update, Delete.
@@ -58,10 +58,16 @@ Basic SQL statements. Write and practiced basic SQL hands-on in a live database.
 - Hands-on lab | _ I practiced the five basic SQL statements to CREATE tables, INSERT data, SELECT results, UPDATE and DELETE data. 
 ![SQL]( https://github.com/RosanaFSS/SQL/blob/main/Module%202%20-%20hands-on%20lab%20-%20five%20basic%20SQL%20statements.jpg)
 
-Here is my solution ![SQL]( https://github.com/RosanaFSS/SQL/blob/main/Module%202%2C%20hands-on%20lab%2C%20five%20basic%20queries.txt)
+Here is my solution :clipboard: ![SQL]( https://github.com/RosanaFSS/SQL/blob/main/Module%202%2C%20hands-on%20lab%2C%20five%20basic%20queries.txt)
 
 __________________________________________
 ### Module 3 - String Patterns, Ranges, Sorting, and Grouping
+18 Dec 2020
+Day09 #60daysofUdacity
+
+Use of string patterns and ranges in SQL queries, how to sort and order result sets and practice use of grouping data in result sets.
+
+To be continued ... :ok:
 
 __________________________________________
 ### Module 4 - Functions, Sub-Queries, Multiple Tables
