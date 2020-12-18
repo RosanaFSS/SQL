@@ -10,6 +10,7 @@ The purpose of this course is to introduce relational database concepts and help
 ![SQL](https://github.com/RosanaFSS/SQL/blob/main/Data%202.gif)
 
 Below I share my summary
+
 ### Module 1 - Introduction to Databases
 Introduction to databases and relational concepts. Creation of a database instance on the cloud. 
 - A database is a repository of data.
@@ -21,7 +22,16 @@ Introduction to databases and relational concepts. Creation of a database instan
 :heavy_minus_sign: disaster recovery | data is kept secure through backups on remote servers in case of failure or power outage.
 
 - There are 5 basic SQL commands: Create, Insert, Select, Update, Delete.
+
+- An Entity Relationship data model, or ER data model, is an alternative to a relational data model.
+- In the ER model, entities are objects that exist independently of any other entities.
+- Entities have attributes which are the data elements that characterize the entity.
+- Attributes are certain properties or characteristics of an entity and tell us more about the entity.
+- A table is a combination of rows and columns.
+- Common data types include characters such as Char and Varchar, numbers such as integer.
+
 - I created an IBM Db2 database instance on cloud.
+
 
 ### Module 2 - Basic SQL
 
