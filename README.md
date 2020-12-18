@@ -53,7 +53,7 @@ Basic SQL statements. Write and practiced basic SQL hands-on in a live database.
     DML are used for manipulating or working with data in tables.
     
   - Hands-on lab | _ I created a table named PRACTICE1 with Column1 as the Primary Key. Column1 has the NOT NULL constraint added after the datatype, meaning that it cannot contain a NULL or an empty value_.
-  
+ ![SQL]( https://github.com/RosanaFSS/SQL/blob/main/Module%202%20-%20hands-on%20lab%20-%20CREATE%20table.jpg)
 
 
 ### Module 3 - String Patterns, Ranges, Sorting, and Grouping
