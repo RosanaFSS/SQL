@@ -12,7 +12,10 @@ The purpose of this course is to introduce relational database concepts and help
 Below I share my summary
 
 ### Module 1 - Introduction to Databases
+_18 Dec 2020_ \
+Day09  **#60daysofUdacity**\
 Introduction to databases and relational concepts. Creation of a database instance on the cloud. 
+
 - A database is a repository of data.
 - A set of software tools for the data in the database is called DBMS (Database Management System).
 - RBMS is a set of software tools that controls the data.
