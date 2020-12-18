@@ -9,6 +9,9 @@ Syllabus
 
 # Module 1 - Introduction to Databases
 Introduction to databases and relational concepts. Creation of a database instance on the cloud. 
+- A database is a repository of data.
+- A set of software tools for the data in the database is called DBMS (Database Management System).
+- RBMS is a set of software tools that controls the data.
 
 # Module 2 - Basic SQL
 
