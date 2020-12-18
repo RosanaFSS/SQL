@@ -34,7 +34,8 @@ _Introduction to databases and relational concepts. Creation of a database insta
 - A table is a combination of rows and columns.
 - Common data types include characters such as Char and Varchar, numbers such as integer.
 
-- Hands-on Lab | I created an IBM Cloud account and provision for a Database instance on cloud with  DB2 Lite Plan.
+- Hands-on Lab | _I created my IBM Cloud account and a provision for a Database instance on cloud with  DB2 Lite Plan._
+![SQL](https://github.com/RosanaFSS/SQL/blob/main/Module%201%20%2C%20hands-on%20lab%20-%20provision%20a%20cloud%20hosted%20database%20instance.jpg)
 
 
 ### Module 2 - Basic SQL
