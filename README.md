@@ -65,7 +65,7 @@ __________________________________________
 19 Dec 2020
 Day10 #60daysofUdacity
 
-The objectives of this module is using string patterns and ranges in SQL queries, how to sort and order result sets and grouping data in result sets.
+The objectives of this module are :heavy_minus_sign: using string patterns and ranges in SQL queries, :heavy_minus_sign: how to sort and :heavy_minus_sign:  order result sets and grouping data in result sets.
 
 Today I practiced _creating_ tables  ![SQL]( https://github.com/RosanaFSS/SQL/blob/main/Module%2003/Module%2003%20-%20hands-on%2C%20Creating%20Tables.pdf), _loading data_ ![SQL]( https://github.com/RosanaFSS/SQL/blob/main/Module%2003/Module%2003%20-%20hands-on%2C%20Loading%20Data.pdf) and _selecting data_ with queries _on cloud_ ![SQL]( https://github.com/RosanaFSS/SQL/blob/main/Module%2003/Module%2C%20hands-on%20query%20output.pdf) & ![SQL]( https://github.com/RosanaFSS/SQL/blob/main/SQL%20coding).
 
@@ -75,6 +75,23 @@ I really loaded data today, woo-hoo! \
 
 __________________________________________
 ### Module 4 - Functions, Sub-Queries, Multiple Tables
+19 Dec 2020
+Day10 #60daysofUdacity
+
+The objectives of this module are :heavy_minus_sign:  Employ Built-in functions in Queries, :heavy_minus_sign: demonstrate how to write sub-queries and nested selects and :heavy_minus_sign: build queries to access multiple tables
+
+- Most databases come with Built-in Functions.
+- These functions can be included in SQL statements, allowing you to perform operations on data right within the database itself.
+- Using database functions can significantly reduce :amazing: the amount of data that needs to be retrieved from the database.
+
+- An AGGREGATE function takes a collection of like values, such as all of the values in a column, as input, and returns a single value or null. Examples of aggregate functions include: SUM(), MINIMUM, MAXIMUM(), AVERAGE()
+- SCALAR and STRING functions perform operations on individual values. Examples: ROUND(), LENGTH(), UCASE(), LCASE()
+
+- Date and time functions can be used in the where clause.
+
+- Sub-queries or sub selects are like regular queries but placed within parentheses and nested inside another query.
+
+
 
 __________________________________________
 ### Module 5 - Accessing Databases using Python
