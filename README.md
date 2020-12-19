@@ -62,7 +62,7 @@ Here is my solution :clipboard: ![SQL]( https://github.com/RosanaFSS/SQL/blob/ma
 
 __________________________________________
 ### Module 3 - String Patterns, Ranges, Sorting, and Grouping
-18 Dec 2020
+19 Dec 2020
 Day09 #60daysofUdacity
 
 Use of string patterns and ranges in SQL queries, how to sort and order result sets and practice use of grouping data in result sets.
