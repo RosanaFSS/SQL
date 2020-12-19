@@ -66,8 +66,9 @@ __________________________________________
 Day09 #60daysofUdacity
 
 Use of string patterns and ranges in SQL queries, how to sort and order result sets and practice use of grouping data in result sets.
+Today I practiced selected queries, created tables and loaded data on cloud.
 
-To be continued ... :ok:
+![SQL]( https://github.com/RosanaFSS/SQL/blob/main/Module%202%20-%20hands-on%20lab%20-%20five%20basic%20SQL%20statements.jpg)
 
 __________________________________________
 ### Module 4 - Functions, Sub-Queries, Multiple Tables
