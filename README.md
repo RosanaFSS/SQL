@@ -69,6 +69,9 @@ The objectives of this module is using string patterns and ranges in SQL queries
 
 Today I practiced _creating_ tables  ![SQL]( https://github.com/RosanaFSS/SQL/blob/main/Module%2003/Module%2003%20-%20hands-on%2C%20Creating%20Tables.pdf), _loading data_ ![SQL]( https://github.com/RosanaFSS/SQL/blob/main/Module%2003/Module%2003%20-%20hands-on%2C%20Loading%20Data.pdf) and _selecting data_ with queries _on cloud_ ![SQL]( https://github.com/RosanaFSS/SQL/blob/main/Module%2003/Module%2C%20hands-on%20query%20output.pdf) & ![SQL]( https://github.com/RosanaFSS/SQL/blob/main/SQL%20coding).
 
+I really loaded data today, woo-hoo! \
+![SQL](https://github.com/RosanaFSS/SQL/blob/main/Module%2003/loading-animations-preloader-gifs-ui-ux-effects-4.gif)
+
 
 __________________________________________
 ### Module 4 - Functions, Sub-Queries, Multiple Tables
