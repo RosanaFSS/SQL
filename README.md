@@ -13,7 +13,7 @@ Below I share my summary
 
 ### Module 1 - Introduction to Databases
 18 Dec 2020 \
-Day09  **#60daysofUdacity**
+Day09  **#60daysofudacity**
 
 _Introduction to databases and relational concepts. Creation of a database instance on the cloud._
 
@@ -40,7 +40,7 @@ _Introduction to databases and relational concepts. Creation of a database insta
 __________________________________________
 ### Module 2 - Basic SQL
 18 Dec 2020
-Day09 #60daysofUdacity
+Day09 #60daysofudacity
 
 Basic SQL statements. Write and practiced basic SQL hands-on in a live database.
 
@@ -63,7 +63,7 @@ Here is my solution :clipboard: ![SQL]( https://github.com/RosanaFSS/SQL/blob/ma
 __________________________________________
 ### Module 3 - String Patterns, Ranges, Sorting, and Grouping
 19 Dec 2020
-Day10 #60daysofUdacity
+Day10 #60daysofudacity
 
 The objectives of this module are :heavy_minus_sign: using string patterns and ranges in SQL queries, :heavy_minus_sign: how to sort and :heavy_minus_sign:  order result sets and grouping data in result sets.
 
@@ -76,7 +76,7 @@ I really loaded data today, woo-hoo! \
 __________________________________________
 ### Module 4 - Functions, Sub-Queries, Multiple Tables
 19 Dec 2020
-Day10 #60daysofUdacity
+Day10 #60daysofudacity
 
 The objectives of this module are :heavy_minus_sign:  Employ Built-in functions in Queries, :heavy_minus_sign: demonstrate how to write sub-queries and nested selects and :heavy_minus_sign: build queries to access multiple tables
 
@@ -92,7 +92,7 @@ The objectives of this module are :heavy_minus_sign:  Employ Built-in functions 
 - Sub-queries or sub selects are like regular queries but placed within parentheses and nested inside another query.
 
 20 Dec 2020
-Day11 #60daysofUdacity
+Day11 #60daysofudacity
 
 Today I practiced creating the Pet Rescue Tableexecuting a script containing the create table command. Also worked with multiple tables using sub-queries using sub-queries. So there were two hands-on.
 
