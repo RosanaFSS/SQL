@@ -143,6 +143,9 @@ Day**11 #60daysofudacity**
 
 The objectives of this module are demonstrate effective use of formulating SQL queries, demonstrate use of invoking SQL queries from Jupyter notebooks using Python and demonstrate skill in retrieving SQL query results and analyzing data.
 
-Many of the real world data sets are made available as .CSV files. These are text files which contain data values typically separated by commas.
+- Many of the real world data sets are made available as .CSV files. These are text files which contain data values typically separated by commas.
+- In a CSV file, if the name of the column contain spaces, by default the database may map them to underscores.
+- Other special characters like parentheses or brackets may also get mapped to underscores.
+- You might get an error if you split the query into multiple lines in a Python Notebook without the backslash.
 
 __________________________________________
