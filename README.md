@@ -91,6 +91,15 @@ The objectives of this module are :heavy_minus_sign:  Employ Built-in functions 
 
 - Sub-queries or sub selects are like regular queries but placed within parentheses and nested inside another query.
 
+20 Dec 2020
+Day11 #60daysofUdacity
+
+Today I practiced creating the Pet Rescue Tableexecuting a script containing the create table command. Also worked with multiple tables using sub-queries using sub-queries. So there were three hands-on.
+
+![SQL](https://github.com/RosanaFSS/SQL/blob/main/Module%2004/Show%20me%20the%20Data.gif)
+
+
+
 
 
 __________________________________________
