@@ -110,8 +110,8 @@ __________________________________________
 Day**11 #60daysofudacity**
 
 I used Jupyter notebook to connect to databases an then created tables, loaded data, query data using SQL and analyzed data using Python.
-- A notebook interface is a virtual notebook environment used for programming.
-![Jupyter notebook](https://github.com/RosanaFSS/SQL/blob/main/Module%2004/Show%20me%20the%20Data.gif)https://github.com/RosanaFSS/SQL/blob/main/Module%2005/Jupyter%20Notebook.jpeg
+A notebook interface is a virtual notebook environment used for programming.
+![Jupyter notebook](https://github.com/RosanaFSS/SQL/blob/main/Module%2005/Jupyter%20Notebook.jpeg)
 
 __________________________________________
 ### Module 6 - Course Assignment
