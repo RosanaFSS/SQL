@@ -94,13 +94,13 @@ The objectives of this module are :heavy_minus_sign:  Employ Built-in functions 
 20 Dec 2020
 Day11 #60daysofUdacity
 
-Today I practiced creating the Pet Rescue Tableexecuting a script containing the create table command. Also worked with multiple tables using sub-queries using sub-queries. So there were three hands-on.
+Today I practiced creating the Pet Rescue Tableexecuting a script containing the create table command. Also worked with multiple tables using sub-queries using sub-queries. So there were two hands-on.
 
 ![SQL](https://github.com/RosanaFSS/SQL/blob/main/Module%2004/Show%20me%20the%20Data.gif)
 
 
-
-
+###### Built-in Functions hands-on ![ Built-in ](https://github.com/RosanaFSS/SQL/blob/main/Module%2004/Hands-on%20Pet%20Rescue)
+###### Sub-queries & multiple tables hands-on ![ Sub-queries ](https://github.com/RosanaFSS/SQL/blob/main/Module%2004/Hands-on%20Pet%20Rescue)
 
 __________________________________________
 ### Module 5 - Accessing Databases using Python
