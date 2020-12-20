@@ -134,7 +134,7 @@ I have just a connection to a DB2 database on Cloud database from a Python noteb
 
 - Pandas is a popular Python library that contains high level data structures and manipulation tools designed to make data analysis fast and easy in Python.
 At he next hands on I established again connection to a database instance of DB2 Warehouse on Cloud from a Python notebook using ibm_db API. Then created a table and inserted a few rows of data into it. Then queried the data. Retrieved the data into a pandas dataframe.
-![IBM_db APIL](https://github.com/RosanaFSS/SQL/blob/main/Module%2005/Module%2005%20-%20Jupyter%20notebook%20hands%20on.jpg)
+![IBM_db APIL](https://github.com/RosanaFSS/SQL/blob/main/Module%2005/Module%2005%20-%20Creating%20Tables%2C%20Inserting%20and%20Querying%20Data.jpg)
 
 __________________________________________
 ### Module 6 - Course Assignment
