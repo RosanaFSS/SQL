@@ -98,11 +98,11 @@ Today I practiced creating the Pet Rescue Tableexecuting a script containing the
 
 ![SQL](https://github.com/RosanaFSS/SQL/blob/main/Module%2004/Show%20me%20the%20Data.gif)
 
+Following my practices
+###### Built-in Functions hands-on ![ Built-in ](https://github.com/RosanaFSS/SQL/blob/main/Module%2004/Hands-on%20Pet%20Rescue) & ![Built-in](https://github.com/RosanaFSS/SQL/blob/main/Module%2004/Hands-on%20Lab%205.pdf)
 
-###### Built-in Functions hands-on ![ Built-in ](https://github.com/RosanaFSS/SQL/blob/main/Module%2004/Hands-on%20Pet%20Rescue)
-![Built-in](https://github.com/RosanaFSS/SQL/blob/main/Module%2004/Hands-on%20Lab%205.pdf)
+###### Sub-queries & multiple tables hands-on ![ Sub-queries ](https://github.com/RosanaFSS/SQL/blob/main/Module%2004/Hands-on%20sub-queries)
 
-###### Sub-queries & multiple tables hands-on ![ Sub-queries ](https://github.com/RosanaFSS/SQL/blob/main/Module%2004/Hands-on%20Pet%20Rescue)
 
 __________________________________________
 ### Module 5 - Accessing Databases using Python
