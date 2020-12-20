@@ -141,6 +141,8 @@ __________________________________________
 20 Dec 2020
 Day**11 #60daysofudacity**
 
-The objectives of this module are demonstrate effective use of formulating SQL queries, demonstrate use of invoking SQL queries from Jupyter notebooks using Python and demonstrate skill in retrieving SQL query results and analyzing data
+The objectives of this module are demonstrate effective use of formulating SQL queries, demonstrate use of invoking SQL queries from Jupyter notebooks using Python and demonstrate skill in retrieving SQL query results and analyzing data.
+
+Many of the real world data sets are made available as .CSV files. These are text files which contain data values typically separated by commas.
 
 __________________________________________
