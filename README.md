@@ -106,6 +106,12 @@ Following my practices
 
 __________________________________________
 ### Module 5 - Accessing Databases using Python
+20 Dec 2020
+Day**11 #60daysofudacity**
+
+I used Jupyter notebook to connect to databases an then created tables, loaded data, query data using SQL and analyzed data using Python.
+
+- A notebook interface is a virtual notebook environment used for programming.
 
 __________________________________________
 ### Module 6 - Course Assignment
