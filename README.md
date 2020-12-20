@@ -138,5 +138,9 @@ At he next hands on I established again connection to a database instance of DB2
 
 __________________________________________
 ### Module 6 - Course Assignment
+20 Dec 2020
+Day**11 #60daysofudacity**
+
+The objectives of this module are demonstrate effective use of formulating SQL queries, demonstrate use of invoking SQL queries from Jupyter notebooks using Python and demonstrate skill in retrieving SQL query results and analyzing data
 
 __________________________________________
