@@ -130,7 +130,7 @@ The **Python code** connects to the database using **API calls**.
 - I learned that it is always important to close connections so that we can avoid unused connections
 
 I have just a connection to a DB2 database on Cloud database from a Python notebook using ibm_db API. 
-![IBM_db APIL](https://github.com/RosanaFSS/SQL/blob/main/Module%2004/Show%20me%20the%20Data.gif)
+![IBM_db APIL](https://github.com/RosanaFSS/SQL/blob/main/Module%2005/Module%2005%20-%20Jupyter%20notebook%20hands%20on.jpg)
 
 __________________________________________
 ### Module 6 - Course Assignment
