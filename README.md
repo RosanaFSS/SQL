@@ -110,7 +110,14 @@ __________________________________________
 Day**11 #60daysofudacity**
 
 I used Jupyter notebook to connect to databases an then created tables, loaded data, query data using SQL and analyzed data using Python.
-A notebook interface is a virtual notebook environment used for programming.
+- A notebook interface is a virtual notebook environment used for programming.
+- Here are some of the advantages of using Jupyter notebooks.
+  - Notebook support for over 40 programming languages including Python, R, Julia, and Scala.
+  - Notebooks can be shared with others by email, Dropbox, GitHub, and the Jupyter notebook viewer.
+  - Your code can produce rich interactive output HTML, images, videos, LaTex, and customized types.
+  - You can leverage big data tools such as Apache Spark from Python, R, and Scala, and explore that same data with pandas, scikit-learn, ggplot2, and TensorFlow.
+  
+The **Python code** connects to the database using **API calls**.  
 ![Jupyter notebook](https://github.com/RosanaFSS/SQL/blob/main/Module%2005/Jupyter%20Notebook.jpeg)
 
 __________________________________________
