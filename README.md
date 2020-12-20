@@ -112,13 +112,23 @@ Day**11 #60daysofudacity**
 I used Jupyter notebook to connect to databases an then created tables, loaded data, query data using SQL and analyzed data using Python.
 - A notebook interface is a virtual notebook environment used for programming.
 - Here are some of the advantages of using Jupyter notebooks.
-  - Notebook support for over 40 programming languages including Python, R, Julia, and Scala.
-  - Notebooks can be shared with others by email, Dropbox, GitHub, and the Jupyter notebook viewer.
-  - Your code can produce rich interactive output HTML, images, videos, LaTex, and customized types.
-  - You can leverage big data tools such as Apache Spark from Python, R, and Scala, and explore that same data with pandas, scikit-learn, ggplot2, and TensorFlow.
+  - **Language of choice**, notebook support for over 40 programming languages including Python, R, Julia, and Scala.
+  - **Share of notebook**, notebooks can be shared with others by email, Dropbox, GitHub, and the Jupyter notebook viewer.
+  - **Interactive output**, your code can produce rich interactive output HTML, images, videos, LaTex, and customized types.
+  - **Big data integration**, you can leverage big data tools such as Apache Spark from Python, R, and Scala, and explore that same data with pandas, scikit-learn, ggplot2, and TensorFlow.
   
+- Each database system has its own library.
+ 
+- There is a mechanism by which the Python code communicates with the DBMS.
+- The Python code connects to the database using DB-API calls.
+- DB-API is Python's standard API for accessing relational databases.
+
+- The two main concepts in the Python DB-API are connection objects and query objects. You use connection objects to connect to a database and manage your transactions. Cursor objects are used to run queries.
+ 
 The **Python code** connects to the database using **API calls**.  
-![Jupyter notebook](https://github.com/RosanaFSS/SQL/blob/main/Module%2005/Jupyter%20Notebook.jpeg)
+
+- I learned that it is always important to close connections so that we can avoid unused connections
+
 
 __________________________________________
 ### Module 6 - Course Assignment
